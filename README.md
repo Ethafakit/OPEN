@@ -13,18 +13,18 @@ The kit was developed by [Ethafa](https://www.ethafa.com) to support playful and
 ---
 
 ## 📦 Repository Structure
-├──3D_Case
-├──Activities
-| ├──Code_Wiring
-| ├──ENG
-| ├──ITA
-├──Eolim_PCB
-| ├──GRBL
-| ├──Graphics
-| ├──Schematics
-├──V-NO-PCB
-| ├──Eolim_Code_Cover_3D
-| ├──Resources for Educators
+- 3D_Case
+- Activities
+-    ├──Code_Wiring
+-    ├──ENG
+-    ├──ITA
+- Eolim
+-    ├──GRBL
+-    ├──Graphics
+-    ├──Schematics
+- V-NO-PCB
+-    ├──Eolim_Code_Cover_3D
+-    ├──Resources for Educators
 
 ---
 
