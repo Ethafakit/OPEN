@@ -58,19 +58,6 @@ All content is openly licensed:
 
 ---
 
-## 📚 Citation
-
-If you use this kit or adapt it for your own project, please cite us:
-
-```bibtex
-@misc{ethafa_steammians_2025,
-  title={Ethafa Steammians Kit},
-  author={Tawfik, Leyla and Cangiano, Serena},
-  year={2025},
-  doi={10.5281/zenodo.XXXXXXX},
-  url={https://github.com/ethafa/steammians-kit}
-}
-
 ## 🙌 Acknowledgements
 This project was developed with support from:
 - Gebert Rüf Stiftung: https://www.grstiftung.ch/de.html
@@ -87,4 +74,22 @@ Collaborations
 - Swissnex: https://swissnex.org/
 - Fondazione Agire: https://agire.ch/
 - Ated4Kids: https://ated.ch/ated4kids
-- 
+- CoderDojo: https://ated.ch/coderdojo
+- Arduino: https://www.arduino.cc
+- Roteco: https://www.roteco.ch/
+
+---
+
+## 📚 Citation
+
+If you use this kit or adapt it for your own project, please cite us:
+
+```bibtex
+@misc{ethafa_steammians_2025,
+  title={Ethafa Steammians Kit},
+  author={Tawfik, Leyla and Cangiano, Serena},
+  year={2025},
+  doi={10.5281/zenodo.XXXXXXX},
+  url={https://github.com/ethafa/steammians-kit}
+}
+
