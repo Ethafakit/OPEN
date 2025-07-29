@@ -70,3 +70,21 @@ If you use this kit or adapt it for your own project, please cite us:
   doi={10.5281/zenodo.XXXXXXX},
   url={https://github.com/ethafa/steammians-kit}
 }
+
+## 🙌 Acknowledgements
+This project was developed with support from:
+- Gebert Rüf Stiftung: https://www.grstiftung.ch/de.html
+- Venture Kick: https://www.venturekick.ch/
+- Fablab SUPSI: https://www.supsi.ch/en/fablab
+- Fondazione Leonardo: https://stiftungen.stiftungschweiz.ch/organisation/fondazione-leonardo
+- VCUarts Qatar: https://qatar.vcu.edu/
+
+Collaborations
+- San3a Tech: https://www.san3atech.com/
+- Fablab Bahrain: https://fablab.bh/
+- Makerspace AlZaina: https://make.works/companies/make_uae
+- Studio 5: https://www.studio5.qa/en/
+- Swissnex: https://swissnex.org/
+- Fondazione Agire: https://agire.ch/
+- Ated4Kids: https://ated.ch/ated4kids
+- 
