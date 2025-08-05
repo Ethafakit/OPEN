@@ -78,6 +78,8 @@ Collaborations
 - Arduino: https://www.arduino.cc
 - Roteco: https://www.roteco.ch/
 
+List of talks, and community engament activities: https://trite-boot-688.notion.site/List-of-talks-interviews-and-workshops-2d0f7709cc704327aacfa6989071fbab?pvs=143
+
 ---
 
 ## 📚 Citation
